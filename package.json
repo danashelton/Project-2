@@ -1,7 +1,6 @@
 {
-  "name": "Project-2",
+  "name": "project-2",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Cerulean-Project-2/Project-2/issues"
   },
-  "homepage": "https://github.com/Cerulean-Project-2/Project-2#readme"
+  "homepage": "https://github.com/Cerulean-Project-2/Project-2#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
 }
