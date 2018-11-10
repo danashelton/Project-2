@@ -10,6 +10,10 @@ h1 {
     margin-left: 15px;
 }
 
+h4 {
+    margin-left: 15px;
+}
+
 .dropbtn {
     background-color: #4169E1;
     color: white;
@@ -21,6 +25,7 @@ h1 {
 .dropdown {
     position: relative;
     display: inline-block;
+    
 }
 
 .dropdown-content {
@@ -44,3 +49,13 @@ h1 {
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color: #6495ED;}
+
+.container {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;    
+    color: white;
+    text-align: left;
+ }
