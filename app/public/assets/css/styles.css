@@ -6,6 +6,10 @@ body {
         font-family: 'Roboto', sans-serif;
 }
 
+h1 {
+    margin-left: 15px;
+}
+
 .dropbtn {
     background-color: #4169E1;
     color: white;
