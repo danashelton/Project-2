@@ -18,39 +18,39 @@
 @snapend
 
 @snap[west about-team-pic]
-![WENDY](template/img/profile/wendy.jpg)
+![Mark](https://avatars2.githubusercontent.com/u/41525359?s=400&v=4)
 @snapend
 
 @snap[south-west about-team-bio]
-@color[#4487F2](Wendy Sesay)
+@color[#4487F2](Mark Piscioneri)
 <br><br>
-@fa[twitter](wendy)
+@fa[github](MarkPish)
 <br>
-Graphic Designer
+Determined
 @snapend
 
 @snap[midpoint about-team-pic about-team-pic-center]
-![ABBY](template/img/profile/abby.jpg)
+![Nikki](https://avatars1.githubusercontent.com/u/22715920?s=400&v=4)
 @snapend
 
 @snap[south about-team-bio]
-@color[#4487F2](Abby Bauer)
+@color[#4487F2](Nicholette Sams)
 <br><br>
-@fa[github](abbycode)
+@fa[github](nicholettesams)
 <br>
-Lead Developer
+Our SQLPro
 @snapend
 
 @snap[east about-team-pic]
-![BERRY](template/img/profile/berry.jpg)
+![Dana](https://avatars2.githubusercontent.com/u/5332318?s=400&u=8b76feb1eaba7a84127a292d48a116cb0d48cabb&v=4)
 @snapend
 
 @snap[south-east about-team-bio]
-@color[#4487F2](Berry Nguyen)
+@color[#4487F2](Dana Shelton)
 <br><br>
-@fa[linkedin](berryngu)
+@fa[github](danashelton)
 <br>
-Channel Marketing
+Design
 @snapend
 
 @snap[north-east template-note text-white]
